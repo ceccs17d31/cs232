@@ -1,0 +1,61 @@
+Script started on Monday 04 February 2019 03:33:58 PM IST
+ ]0;s4d1@cec-HCL-Desktop-Invalid-entry-length-16-Fixed-up-to-11: ~  [01;32ms4d1@cec-HCL-Desktop-Invalid-entry-length-16-Fixed-up-to-11 [00m: [01;34m~ [00m$ ls
+abc.tctcat  a.txt                [0m [01;34mDesktop [0m    examples.desktop   [01;34mPublic [0m
+abc.tx      ceccs17d04.02.2019   [01;34mDocuments [0m   [01;34mMusic [0m              [01;34mTemplates [0m
+abc.txt     def.txt              [01;34mDownloads [0m   [01;34mPictures [0m           [01;34mVideos [0m
+ ]0;s4d1@cec-HCL-Desktop-Invalid-entry-length-16-Fixed-up-to-11: ~  [01;32ms4d1@cec-HCL-Desktop-Invalid-entry-length-16-Fixed-up-to-11 [00m: [01;34m~ [00m$ ls -l
+total 56
+-rw-rw-r-- 1 s4d1 s4d1    0 Feb  4 15:25 abc.tctcat
+-rw-rw-r-- 1 s4d1 s4d1    0 Feb  4 15:25 abc.tx
+-rw-rw-r-- 1 s4d1 s4d1    6 Feb  4 15:27 abc.txt
+-rw-rw-r-- 1 s4d1 s4d1    8 Feb  4 15:22 a.txt
+-rw-rw-r-- 1 s4d1 s4d1    0 Feb  4 15:33 ceccs17d04.02.2019
+-rw-rw-r-- 1 s4d1 s4d1    6 Feb  4 15:27 def.txt
+drwxr-xr-x 2 s4d1 s4d1 4096 Feb  4 15:16  [0m [01;34mDesktop [0m
+drwxr-xr-x 2 s4d1 s4d1 4096 Feb  4 15:16  [01;34mDocuments [0m
+drwxr-xr-x 2 s4d1 s4d1 4096 Feb  4 15:16  [01;34mDownloads [0m
+-rw-r--r-- 1 s4d1 s4d1 8980 Feb  4 15:01 examples.desktop
+drwxr-xr-x 2 s4d1 s4d1 4096 Feb  4 15:16  [01;34mMusic [0m
+drwxr-xr-x 2 s4d1 s4d1 4096 Feb  4 15:16  [01;34mPictures [0m
+drwxr-xr-x 2 s4d1 s4d1 4096 Feb  4 15:16  [01;34mPublic [0m
+drwxr-xr-x 2 s4d1 s4d1 4096 Feb  4 15:16  [01;34mTemplates [0m
+drwxr-xr-x 2 s4d1 s4d1 4096 Feb  4 15:16  [01;34mVideos [0m
+ ]0;s4d1@cec-HCL-Desktop-Invalid-entry-length-16-Fixed-up-to-11: ~  [01;32ms4d1@cec-HCL-Desktop-Invalid-entry-length-16-Fixed-up-to-11 [00m: [01;34m~ [00m$ ls -lt
+total 56
+-rw-rw-r-- 1 s4d1 s4d1    0 Feb  4 15:33 ceccs17d04.02.2019
+-rw-rw-r-- 1 s4d1 s4d1    6 Feb  4 15:27 def.txt
+-rw-rw-r-- 1 s4d1 s4d1    6 Feb  4 15:27 abc.txt
+-rw-rw-r-- 1 s4d1 s4d1    0 Feb  4 15:25 abc.tx
+-rw-rw-r-- 1 s4d1 s4d1    0 Feb  4 15:25 abc.tctcat
+-rw-rw-r-- 1 s4d1 s4d1    8 Feb  4 15:22 a.txt
+drwxr-xr-x 2 s4d1 s4d1 4096 Feb  4 15:16  [0m [01;34mDesktop [0m
+drwxr-xr-x 2 s4d1 s4d1 4096 Feb  4 15:16  [01;34mDocuments [0m
+drwxr-xr-x 2 s4d1 s4d1 4096 Feb  4 15:16  [01;34mDownloads [0m
+drwxr-xr-x 2 s4d1 s4d1 4096 Feb  4 15:16  [01;34mMusic [0m
+drwxr-xr-x 2 s4d1 s4d1 4096 Feb  4 15:16  [01;34mPictures [0m
+drwxr-xr-x 2 s4d1 s4d1 4096 Feb  4 15:16  [01;34mPublic [0m
+drwxr-xr-x 2 s4d1 s4d1 4096 Feb  4 15:16  [01;34mTemplates [0m
+drwxr-xr-x 2 s4d1 s4d1 4096 Feb  4 15:16  [01;34mVideos [0m
+-rw-r--r-- 1 s4d1 s4d1 8980 Feb  4 15:01 examples.desktop
+ ]0;s4d1@cec-HCL-Desktop-Invalid-entry-length-16-Fixed-up-to-11: ~  [01;32ms4d1@cec-HCL-Desktop-Invalid-entry-length-16-Fixed-up-to-11 [00m: [01;34m~ [00m$ ls-ltr
+ls-ltr: command not found
+ ]0;s4d1@cec-HCL-Desktop-Invalid-entry-length-16-Fixed-up-to-11: ~  [01;32ms4d1@cec-HCL-Desktop-Invalid-entry-length-16-Fixed-up-to-11 [00m: [01;34m~ [00m$ ls -ltr
+total 56
+-rw-r--r-- 1 s4d1 s4d1 8980 Feb  4 15:01 examples.desktop
+drwxr-xr-x 2 s4d1 s4d1 4096 Feb  4 15:16  [0m [01;34mVideos [0m
+drwxr-xr-x 2 s4d1 s4d1 4096 Feb  4 15:16  [01;34mTemplates [0m
+drwxr-xr-x 2 s4d1 s4d1 4096 Feb  4 15:16  [01;34mPublic [0m
+drwxr-xr-x 2 s4d1 s4d1 4096 Feb  4 15:16  [01;34mPictures [0m
+drwxr-xr-x 2 s4d1 s4d1 4096 Feb  4 15:16  [01;34mMusic [0m
+drwxr-xr-x 2 s4d1 s4d1 4096 Feb  4 15:16  [01;34mDownloads [0m
+drwxr-xr-x 2 s4d1 s4d1 4096 Feb  4 15:16  [01;34mDocuments [0m
+drwxr-xr-x 2 s4d1 s4d1 4096 Feb  4 15:16  [01;34mDesktop [0m
+-rw-rw-r-- 1 s4d1 s4d1    8 Feb  4 15:22 a.txt
+-rw-rw-r-- 1 s4d1 s4d1    0 Feb  4 15:25 abc.tctcat
+-rw-rw-r-- 1 s4d1 s4d1    0 Feb  4 15:25 abc.tx
+-rw-rw-r-- 1 s4d1 s4d1    6 Feb  4 15:27 abc.txt
+-rw-rw-r-- 1 s4d1 s4d1    6 Feb  4 15:27 def.txt
+-rw-rw-r-- 1 s4d1 s4d1    0 Feb  4 15:33 ceccs17d04.02.2019
+ ]0;s4d1@cec-HCL-Desktop-Invalid-entry-length-16-Fixed-up-to-11: ~  [01;32ms4d1@cec-HCL-Desktop-Invalid-entry-length-16-Fixed-up-to-11 [00m: [01;34m~ [00m$ man ls
+ [?1049h [?1h =
+LS(1)                            User Commands          
