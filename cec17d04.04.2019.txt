@@ -1,0 +1,61 @@
+Script started on Thursday 04 April 2019 09:15:32 AM IST
+]0;s4d1@cec-HCL-Desktop: ~[01;32ms4d1@cec-HCL-Desktop[00m:[01;34m~[00m$ scp s2resut[K[K[K[K[K[K[K[K[K[K[Kscp a.txt cs17d10[K[K31@14[K92.168.0.245:/home/cs17d31/
+ssh: connect to host 192.168.0.245 port 22: No route to host
+lost connection
+]0;s4d1@cec-HCL-Desktop: ~[01;32ms4d1@cec-HCL-Desktop[00m:[01;34m~[00m$ 
+]0;s4d1@cec-HCL-Desktop: ~[01;32ms4d1@cec-HCL-Desktop[00m:[01;34m~[00m$ scp a.txt cs17d31@192.168.0.245:/home/cs17d31/[C[1P:/home/cs17d31/[1P:/home/cs17d31/
+ssh: connect to host 192.168.0.2 port 22: No route to host
+lost connection
+]0;s4d1@cec-HCL-Desktop: ~[01;32ms4d1@cec-HCL-Desktop[00m:[01;34m~[00m$ scp a.txt cs17d31@192.168.0.2:/home/cs17d31/[1P:/home/cs17d31/3:/home/cs17d31/0:/home/cs17d31/
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs17d31@192.168.0.30's password: 
+a.txt                                           0%    0     0.0KB/s   --:-- ETAa.txt                                         100%    6     0.0KB/s   00:00    
+]0;s4d1@cec-HCL-Desktop: ~[01;32ms4d1@cec-HCL-Desktop[00m:[01;34m~[00m$ [K]0;s4d1@cec-HCL-Desktop: ~[01;32ms4d1@cec-HCL-Desktop[00m:[01;34m~[00m$ ssh cs17d31@192.168.9[K0.30
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs17d31@192.168.0.30's password: 
+Welcome to elementary OS 0.4.1 Loki (GNU/Linux 4.13.0-32-generic x86_64)
+
+ * Website:  http://elementary.io/
+
+278 packages can be updated.
+0 updates are security updates.
+
+Last login: Mon Feb 25 11:16:08 2019 from 192.168.0.128
+$ ls
+a.txt  examples.desktop  le.txt
+$ ^Zexit
+eeee    ext
+
+
+
+
+
+
+
+
+Connection to 192.168.0.30 closed.
+]0;s4d1@cec-HCL-Desktop: ~[01;32ms4d1@cec-HCL-Desktop[00m:[01;34m~[00m$ ssh cs17d31@192.168.0.30cp a.txt cs17d31@192.168.0.30:/home/cs17d31/[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[21Psh cs17d31@192.168.0.30[Kssh cs17d31@192.168.0.30[Kssh cs17d31@192.168.0.30cp a.txt cs17d31@192.168.0.30:/home/cs17d31/[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[21Psh cs17d31@192.168.0.30[Kssh cs17d31@192.168.0.30cp a.txt cs17d31@192.168.0.30:/home/cs17d31/[1P2:/home/cs17d31/45:/home/cs17d31/[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[24Pudo service ssh startcript cec17d25.03.2019.1.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[7Pudo service ssh startcp a.txt cs17d31@192.168.0.245:/home/cs17d31/[2P:/home/cs17d31/30:/home/cs17d31/[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[21Psh cs17d31@192.168.0.30[Kscp cs17d31@192.168.0.30 [K:/home/cs17d1[K31/le.txt /home/
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs17d31@192.168.0.30's password: 
+scp: /home/cs17d31/le.txt: not a regular file
+]0;s4d1@cec-HCL-Desktop: ~[01;32ms4d1@cec-HCL-Desktop[00m:[01;34m~[00m$ scp cs17d31@192.168.0.30:/home/cs17d31/le.txt /home/[C[1P /home/[1P /home/[1P /home/[1P /home/[1P /home/[1P /home/a /home/. /home/t /home/x /home/t /home/
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs17d31@192.168.0.30's password: 
+/home//a.txt: Permission denied
+]0;s4d1@cec-HCL-Desktop: ~[01;32ms4d1@cec-HCL-
