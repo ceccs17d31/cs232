@@ -131,9 +131,11 @@ From 192.168.0.5 icmp_seq=117 Destination Host Unreachable
 118 packets transmitted, 68 received, +18 errors, 42% packet loss, time 119523ms
 rtt min/avg/max/mdev = 0.135/0.206/0.247/0.026 ms, pipe 4
 ]0;cec@cec-HCL-Desktop: ~[01;32mcec@cec-HCL-Desktop[00m:[01;34m~[00m$ ssh lab2@192.168.0.3
-ssh: connect to host 192.168.0.3 port 22: No route to host
+ssh: connect to host 192.168.0.3 port 22: No route to host
+
 ]0;cec@cec-HCL-Desktop: ~[01;32mcec@cec-HCL-Desktop[00m:[01;34m~[00m$ ssh lab2@192.168.0.3
-ssh: connect to host 192.168.0.3 port 22: Network is unreachable
+ssh: connect to host 192.168.0.3 port 22: Network is unreachable
+
 ]0;cec@cec-HCL-Desktop: ~[01;32mcec@cec-HCL-Desktop[00m:[01;34m~[00m$ exit
 exit
 
