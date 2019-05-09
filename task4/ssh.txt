@@ -34,7 +34,7 @@ new1.txt
 $ cd ..
 $ touch newfile.txt
 $ pwd
-/home/cs17d03
+/home/cs17d31
 $ mkdir newfolder
 $ ls
 examples.desktop  hello.txt  new  newfile.txt  newfolder
