@@ -1,3 +1,8 @@
+Lena Grace Joseph
+    S4 D
+  Roll No:31
+
+
 Script started on Thursday 04 April 2019 09:15:32 AM IST
 ]0;s4d1@cec-HCL-Desktop: ~[01;32ms4d1@cec-HCL-Desktop[00m:[01;34m~[00m$ scp s2resut[K[K[K[K[K[K[K[K[K[K[Kscp a.txt cs17d10[K[K31@14[K92.168.0.245:/home/cs17d31/
 ssh: connect to host 192.168.0.245 port 22: No route to host
