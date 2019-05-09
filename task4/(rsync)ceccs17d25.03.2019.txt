@@ -1,0 +1,117 @@
+Script started on Monday 25 March 2019 11:15:40 AM IST
+]0;s4d1@cec-HCL-Desktop: ~[01;32ms4d1@cec-HCL-Desktop[00m:[01;34m~[00m$ rst[Kync -zvh /home/s4d1/b.txt/home[K[K[K[K[K /home/s4d1/Desktop/lena/le,[K.t 
+xt
+b.txt
+
+sent 86 bytes  received 35 bytes  242.00 bytes/sec
+total size is 6  speedup is 0.05
+]0;s4d1@cec-HCL-Desktop: ~[01;32ms4d1@cec-HCL-Desktop[00m:[01;34m~[00m$ rsync -avzh /home/s4d1/Desktop/lena/le.txt cs17d31@192.1 
+68.0.30:
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs17d31@192.168.0.30's password: 
+sending incremental file list
+le.txt/
+le.txt/b.txt
+
+sent 131 bytes  received 45 bytes  27.08 bytes/sec
+total size is 6  speedup is 0.03
+]0;s4d1@cec-HCL-Desktop: ~[01;32ms4d1@cec-HCL-Desktop[00m:[01;34m~[00m$ rsync -avzh @192.168.0.30:/home/s4d1/Desktop/lena/le.txt 
+[A
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+@192.168.0.30's password: 
+
+[1]+  Stopped                 rsync -avzh @192.168.0.30:/home/s4d1/Desktop/lena/le.txt
+]0;s4d1@cec-HCL-Desktop: ~[01;32ms4d1@cec-HCL-Desktop[00m:[01;34m~[00m$ rsync -avzh @192.168.0.30:/home/s4d1/Desktop/lena/le.txt 
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/home/s4d1/Desktop/lena/le.txt cs17d31@192.16
+68.0.30:[A
+]0;s4d1@cec-HCL-Desktop: ~[01;32ms4d1@cec-HCL-Desktop[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C@192.168.0.30:/home/s4d1/Desktop/lena/le.txt 
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cc@192.168.0.30:/home/s4d1/Desktop/lena/le.txt
+t[A
+]0;s4d1@cec-HCL-Desktop: ~[01;32ms4d1@cec-HCL-Desktop[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[Cs@192.168.0.30:/home/s4d1/Desktop/lena/le.txt[A
+]0;s4d1@cec-HCL-Desktop: ~[01;32ms4d1@cec-HCL-Desktop[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C1@192.168.0.30:/home/s4d1/Desktop/lena/le.txt[A
+]0;s4d1@cec-HCL-Desktop: ~[01;32ms4d1@cec-HCL-Desktop[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C7@192.168.0.30:/home/s4d1/Desktop/lena/le.txt[A
+]0;s4d1@cec-HCL-Desktop: ~[01;32ms4d1@cec-HCL-Desktop[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cd@192.168.0.30:/home/s4d1/Desktop/lena/le.txt[A
+]0;s4d1@cec-HCL-Desktop: ~[01;32ms4d1@cec-HCL-Desktop[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C3@192.168.0.30:/home/s4d1/Desktop/lena/le.txt[A
+]0;s4d1@cec-HCL-Desktop: ~[01;32ms4d1@cec-HCL-Desktop[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C1@192.168.0.30:/home/s4d1/Desktop/lena/le.txt[A
+]0;s4d1@cec-HCL-Desktop: ~[01;32ms4d1@cec-HCL-Desktop[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs17d31@192.168.0.30's password: 
+receiving incremental file list
+rsync: change_dir "/home/s4d1/Desktop/lena" failed: No such file or directory (2)
+
+sent 8 bytes  received 95 bytes  22.89 bytes/sec
+total size is 0  speedup is 0.00
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1655) [Receiver=3.1.1]
+rsync: [Receiver] write error: Broken pipe (32)
+]0;s4d1@cec-HCL-Desktop: ~[01;32ms4d1@cec-HCL-Desktop[00m:[01;34m~[00m$ rsync -avzh cs17d31@192.168.0.30:/home/s4d1/Desktop/lena/
+/le.txt[A
+]0;s4d1@cec-HCL-Desktop: ~[01;32ms4d1@cec-HCL-Desktop[00m:[01;34m~[00m$ [K
+
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crsync -avzh cs17d31@192.168.0.30:/home/s4d1/Desktop/lena/
+/le.txt[A
+]0;s4d1@cec-HCL-Desktop: ~[01;32ms4d1@cec-HCL-Desktop[00m:[01;34m~[00m$ [K
+
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crsync -avzhe ssh root@192.168.0.100:/root/install.log /t 
+mp/
+ssh: connect to host 192.168.0.100 port 22: No route to host
+
+rsync: connection unexpectedly closed (0 bytes received so far) [Receiver]
+rsync error: unexplained error (code 255) at io.c(226) [Receiver=3.1.1]
+]0;s4d1@cec-HCL-Desktop: ~[01;32ms4d1@cec-HCL-Desktop[00m:[01;34m~[00m$ rsync -avzhe ssh root@192.168.0.100:/root/install.log /tm
+mp/
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C@192.168.0.100:/root/install.log /tmp[1P/[A
+]0;s4d1@cec-HCL-Desktop: ~[01;32ms4d1@cec-HCL-Desktop[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C@192.168.0.100:/root/install.log /tmp/[K[A
+]0;s4d1@cec-HCL-Desktop: ~[01;32ms4d1@cec-HCL-Desktop[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C@192.168.0.100:/root/install.log /tmp/ 
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P
+
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cc@192.168.0.100:/root/install.log /tmp/ [A
+]0;s4d1@cec-HCL-Desktop: ~[01;32ms4d1@cec-HCL-Desktop[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cs@192.168.0.100:/root/install.log /tmp/
+/[A
+]0;s4d1@cec-HCL-Desktop: ~[01;32ms4d1@cec-HCL-Desktop[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C1@192.168.0.100:/root/install.log /tmp/[A
+]0;s4d1@cec-HCL-Desktop: ~[01;32ms4d1@cec-HCL-Desktop[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C7@192.168.0.100:/root/install.log /tmp/[A
+]0;s4d1@cec-HCL-Desktop: ~[01;32ms4d1@cec-HCL-Desktop[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cd@192.168.0.100:/root/install.log /tmp/[A
+]0;s4d1@cec-HCL-Desktop: ~[01;32ms4d1@cec-HCL-Desktop[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C3@192.168.0.100:/root/install.log /tmp/[A
+]0;s4d1@cec-HCL-Desktop: ~[01;32ms4d1@cec-HCL-Desktop[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C1@192.168.0.100:/root/install.log /tmp/[A
+]0;s4d1@cec-HCL-Desktop: ~[01;32ms4d1@cec-HCL-Desktop[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+
+ssh: connect to host 192.168.0.100 port 22: No route to host
+
+rsync: connection unexpectedly closed (0 bytes received so far) [Receiver]
+rsync error: unexplained error (code 255) at io.c(226) [Receiver=3.1.1]
+]0;s4d1@cec-HCL-Desktop: ~[01;32ms4d1@cec-HCL-Desktop[00m:[01;34m~[00m$ rsync -avzhe ssh cs17d31@192.168.0.100:/root/install.log 
+ /tmp/[A
+]0;s4d1@cec-HCL-Desktop: ~[01;32ms4d1@cec-HCL-Desktop[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Croot@192.168.0.100:/root/install.log /tm[3Pp/[A
+]0;s4d1@cec-HCL-Desktop: ~[01;32ms4d1@cec-HCL-Desktop[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccs17d31@192.168.0.100:/root/install.log /tmp/[A
+]0;s4d1@cec-HCL-Desktop: ~[01;32ms4d1@cec-HCL-Desktop[00m:[01;34m~[00m$ [K
+
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crsync -avzhe ssh cs17d31@192.168.0.100:/root/install.log 
+ /tmp/
+ssh: connect to host 192.168.0.100 port 22: No route to host
+
+rsync: connection unexpectedly closed (0 bytes received so far) [Receiver]
+rsync error: unexplained error (code 255) at io.c(226) [Receiver=3.1.1]
+]0;s4d1@cec-HCL-Desktop: ~[01;32ms4d1@cec-HCL-Desktop[00m:[01;34m~[00m$ 
+]0;s4d1@cec-HCL-Desktop: ~[01;32ms4d1@cec-HCL-Desktop[00m:[01;34m~[00m$ rsync -avzhe ssh cs17d31@192.168.0.100:/root/install.log 
+ /tmp/[A
+]0;s4d1@cec-HCL-Desktop: ~[01;32ms4d1@cec-HCL-Desktop[00m:[01;34m~[00m$ [K
+
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[K]0;s4d1@cec-HCL-Desktop: ~[01;32ms4d1@cec-HCL-Desktop[00m:[01;34m~[00m$ rsu[Kync -avzh ssh cs17d31@198.162.0.30 /home[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kexit
+exit
+There are stopped jobs.
+]0;s4d1@cec-HCL-Desktop: ~[01;32ms4d1@cec-HCL-Desktop[00m:[01;34m~[00m$ exit
