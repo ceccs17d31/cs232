@@ -1,3 +1,8 @@
+Lena Grace Joseph
+    S4 D
+ Roll No:31
+
+
 Script started on Thursday 04 April 2019 10:45:13 AM IST
 ]0;cec@cec-HCL-Desktop: ~[01;32mcec@cec-HCL-Desktop[00m:[01;34m~[00m$ ifconfig
 enp4s0    Link encap:Ethernet  HWaddr 10:78:d2:50:d0:2e  
