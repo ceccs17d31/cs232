@@ -1,3 +1,8 @@
+Lena Grace Joseph
+  S4 D
+ Roll No:31
+
+
 Script started on Monday 25 March 2019 11:25:10 PM IST
 ]0;cec-lab2@ceclab2-H110M-S2: ~[01;32mcec-lab2@ceclab2-H110M-S2[00m:[01;34m~[00m$ ssh cs17d31@192.168.0.1~[K[K30
 .
