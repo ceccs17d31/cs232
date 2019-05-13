@@ -1,0 +1,14 @@
+Script started on 2019-04-24 18:46:46+05:30 [TERM="xterm-termite" TTY="/dev/pts/1" COLUMNS="95" LINES="46"]
+[?1h=[1m[30m+?[[34mlenagracejoseph[30m@[34macer[30m]??[[34m/mnt/ext/home/lenagracejoseph/projects/cs232/8.further_tasks/perl[30m]??[[34m0[30m]
+
++?(B[m perl add_two_numbers.pl 
+[?1l>Enter two numbers 
+24
+33
+Sum = 57
+[?1h=[1m[30m+?[[34mlenagracejoseph[30m@[34macer[30m]??[[34m/mnt/ext/home/lenagracejoseph/projects/cs232/8.further_tasks/perl[30m]??[[34m0[30m]
+
++?(B[m exit
+[?1l>exit
+
+Script done on 2019-04-24 18:46:59+05:30 [COMMAND_EXIT_CODE="0"]
